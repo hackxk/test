@@ -1,0 +1,8 @@
+save_file=IPFW file opslaan om te bewerken,3,Webmin's standaard of automatisch
+view_comment=Toon commentaar?,1,1-Ja,0-Nee
+line1=Systeem configuratie,11
+cluster_mode=Update cluster servers,1,0-Wanneer een wijziging is gemaakt,1-Wanneer de configuratie word toegevoegd
+view_counters=Toon tellers?,1,1-Ja,0-Nee
+view_condition=Toon condities?,1,1-Ja,0-Nee
+ipfw=Volledig pad naar de ipfw opdracht,0
+line0=Configureerbare opties,11

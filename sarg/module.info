@@ -1,0 +1,6 @@
+os_support=!windows
+version=1.880
+longdesc=Configure and schedule SARG, a tool for generating reports from Squid access logs.
+desc=Squid Report Generator
+category=servers
+depends=cron 1.880

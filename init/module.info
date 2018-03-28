@@ -1,0 +1,9 @@
+version=1.880
+longdesc=Setup scripts to be run at boot time from /etc/init.d or /etc/rc.local.
+name=Boot Manager
+os_support=solaris *-linux hpux freebsd unixware openserver openbsd osf1 irix aix macos netbsd windows 
+readonly=1
+desc=Bootup and Shutdown
+category=system
+risk=low medium high
+depends=proc inittab 1.880

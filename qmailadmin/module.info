@@ -1,0 +1,8 @@
+version=1.880
+longdesc=Configure the QMail mail server, a simpler alternative to Sendmail.
+name=QMail
+library=qmail-lib.pl
+os_support=!windows
+desc=QMail Mail Server
+category=servers
+depends=1.880

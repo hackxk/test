@@ -1,0 +1,6 @@
+os_support=redhat-linux debian-linux mandrake-linux/10.2-* solaris freebsd macos syno-linux
+version=1.880
+longdesc=Displays available package updates from YUM, APT or other update systems
+desc=Software Package Updates
+category=system
+depends=software cron mailboxes 1.880

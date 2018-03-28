@@ -1,0 +1,7 @@
+os_support=*-linux
+version=1.880
+longdesc=Set up your system as an answering machine using vgetty
+desc=Voicemail Server
+name=Vgetty
+category=hardware
+depends=inittab 1.880

@@ -1,0 +1,7 @@
+os_support=*-linux solaris/11-*
+version=1.880
+longdesc=Configure the Linux GRUB boot loader to allow the selection of various operating systems and kernels at boot time.
+desc=GRUB Boot Loader
+name=GRUB
+category=hardware
+depends=fdisk mount 1.880

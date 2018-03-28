@@ -1,0 +1,6 @@
+os_support=solaris *-linux hpux freebsd osf1 irix unixware openserver macos openbsd aix netbsd 
+version=1.880
+longdesc=Create scheduled Cron jobs that run on multiple servers simultaneously.
+desc=Cluster Cron Jobs
+category=cluster
+depends=cron 1.880

@@ -1,0 +1,11 @@
+start_cmd=Opdracht om de Fetchmail daemon te starten,3,Fetchmail laten uitvoeren
+daemon_user=Gebruiker om de Fetchmail daemon uit te voeren als,0
+mda_command=Email aflever opdracht,3,Gebruik SMTP
+config_file=Fetchmail config file om te bewerken,3,Alle gebruikers' .fetchmailrc files
+line1=Configureerbare opties,11
+line2=Systeem configuratie,11
+stop_cmd=Opdracht om de Fetchmail daemon te stoppen,3,Fetchmail laten uitvoeren -q
+pid_file=Pad naar de Fetchmail daemon PID file,0
+fetchmail_path=Pad naar het Fetchmail programma,0
+max_users=Maximum aantal gebruikers om te laten zien,3,Ongelimiteerd
+view_mode=Laat gebruikerslijst zien als,1,1-Alleen gebruikersnamen,0-Gebruikersnamen en Fetchmail configuratie

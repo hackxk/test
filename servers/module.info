@@ -1,0 +1,8 @@
+version=1.880
+longdesc=Displays an index of other Webmin servers for easy linking.
+name=Servers
+readonly=1
+desc=Webmin Servers Index
+category=webmin
+risk=high
+depends=mailboxes cron 1.880

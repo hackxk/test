@@ -1,0 +1,8 @@
+version=1.880
+longdesc=Create Webmin users and configure which modules and features they are allowed to access.
+name=AdminUsers
+readonly=1
+desc=Webmin Users
+category=webmin
+risk=high
+depends=1.880

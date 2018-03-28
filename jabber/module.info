@@ -1,0 +1,8 @@
+version=1.880
+cpan=1
+longdesc=Configure the multi-protocol Jabber messaging server.
+name=Jabber
+os_support=!windows
+desc=Jabber IM Server
+category=servers
+depends=1.880

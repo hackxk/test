@@ -1,0 +1,7 @@
+os_support=!windows
+version=1.880
+longdesc=Burn data CDs from ISO images or selected directories.
+desc=CD Burner
+name=Burner
+category=hardware
+depends=proc fdisk 1.880

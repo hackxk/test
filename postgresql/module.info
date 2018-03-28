@@ -1,0 +1,9 @@
+version=1.880
+cpan=1
+longdesc=Manage databases, tables and users in your PostgreSQL database server.
+name=PostgreSQL
+readonly=1
+desc=PostgreSQL Database Server
+category=servers
+risk=low medium high
+depends=1.880

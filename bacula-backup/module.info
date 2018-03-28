@@ -1,0 +1,5 @@
+version=1.880
+longdesc=Configure Bacula to perform backups and restores manually or on schedule, for one or many systems.
+desc=Bacula Backup System
+category=system
+depends=proc cron 1.250 1.880

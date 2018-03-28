@@ -1,0 +1,7 @@
+version=1.880
+longdesc=Setup the SSH server for remote secure logins.
+desc=SSH Server
+desc_bg=SSH сървър
+name=SSHD
+category=servers
+depends=1.880

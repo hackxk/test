@@ -1,0 +1,6 @@
+os_support=!windows
+version=1.880
+longdesc=Edit the /etc/mailcap file, which maps MIME types to handler programs
+desc=MIME Type Programs
+category=system
+depends=1.880

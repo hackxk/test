@@ -1,0 +1,9 @@
+version=1.880
+longdesc=Configure low-level services to be run at boot time, and select the initial runlevel.
+name=Inittab
+os_support=solaris *-linux{-r "/etc/inittab"} hpux unixware openserver aix irix
+readonly=1
+desc=Initial System Bootup
+category=system
+risk=high
+depends=1.880

@@ -1,0 +1,7 @@
+readonly=1
+version=1.880
+longdesc=Create buttons to execute commonly used commands or edit files on your system.
+desc=Custom Commands
+name=Custom
+depends=proc 1.880
+risk=medium high

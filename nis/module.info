@@ -1,0 +1,7 @@
+os_support=redhat-linux mandrake-linux open-linux debian-linux suse-linux united-linux solaris msc-linux trustix-linux coherent-linux openmamba-linux aix
+version=1.880
+longdesc=Setup a system as an NIS client, master or slave server. Note that NIS+ is not supported.
+desc=NIS Client and Server
+name=NIS
+category=net
+depends=inetd useradmin 1.880

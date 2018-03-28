@@ -1,0 +1,7 @@
+readonly=1
+version=1.880
+longdesc=View, edit and change permissions on files and directories on your system with a Windows-like file manager.
+desc=Java File Manager
+name=FileManager
+depends=1.880
+risk=high

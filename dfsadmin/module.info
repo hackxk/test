@@ -1,0 +1,10 @@
+version=1.880
+nozone=1
+longdesc=Edit file shares as defined in the /etc/dfs/dfstab file.
+name=DFSadmin
+library=dfs-lib.pl
+os_support=solaris unixware
+desc=NFS Shares
+category=net
+depends=1.880
+risk=low medium high

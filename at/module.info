@@ -1,0 +1,8 @@
+version=1.880
+longdesc=Schedule the execution of one-off commands or scripts.
+name=At
+os_support=solaris slackware-linux redhat-linux mandrake-linux debian-linux suse-linux united-linux open-linux turbo-linux corel-linux msc-linux freebsd netbsd openbsd generic-linux openserver macos gentoo-linux irix sol-linux coherent-linux openmamba-linux syno-linux
+readonly=1
+desc=Scheduled Commands
+category=system
+depends=proc 1.880

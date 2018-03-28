@@ -1,0 +1,6 @@
+logrotate=Ścieżka do programu logrotate,0
+line1=Opcje konfiguracyjne,11
+line2=Konfiguracja systemu,11
+sort_mode=Sortuj pliki logów według,1,1-Nazwy,0-Kolejności w pliku konfiguracyjnym
+logrotate_conf=Ścieżka do pliku konfiguracyjnego logrotate,0
+add_file=Dodaj nowe sekcje rotacji logów do,3,Głównego pliku konfiguracyjnego

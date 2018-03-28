@@ -1,0 +1,6 @@
+menu_file=GRUB meny konfigurasjonsfil,0
+install=Installer GRUB p&#229; disk/partisjon,0
+line1=Konfigurerbare innstillinger,11
+grub_path=Sti til grub program,0
+line2=System konfigurasjon,11
+device_map=Fil for tilordninger av enhetsnavn,3,Hent fra GRUB

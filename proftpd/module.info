@@ -1,0 +1,7 @@
+os_support=!windows
+version=1.880
+longdesc=Configure the powerful ProFTPD FTP server. Supports all options in most of the standard modules.
+desc=ProFTPD Server
+name=ProFTPD
+category=servers
+depends=1.880

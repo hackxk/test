@@ -1,0 +1,7 @@
+os_support=*-linux
+version=1.880
+longdesc=Configure the Kerberos 5 client on your system.
+desc=Kerberos5
+name=Kerberos5 Configuration
+category=net
+depends=1.880

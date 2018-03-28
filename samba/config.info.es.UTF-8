@@ -1,0 +1,16 @@
+samba_server=Trayectoria completa a smbd,0
+samba_status_program=Trayectoria completa a smbstatus,0
+name_server=Ruta completa a nmbd,0
+net=Ruta completa a comando net,3,Ninguno
+stop_cmd=Comando para parar los servidores Samba,3,Simplemente matar procesos
+smbgroupedit=Ruta completa a smbgroupedit,3,Ninguno
+samba_password_program=Trayectoria completa a smbpasswd,0
+sort_mode=&#191;Ordenar usuarios y grupos por nombre?,1,1-S&#237;,0-No
+smb_conf=Localizaci&#243;n del archivo de configuraci&#243;n de Samba,0
+start_cmd=Comando para arrancar los servidores Samba,3,Autom&#225;tico
+smb_passwd=Localizaci&#243;n del archivo de claves de acceso de Samba,3
+line1=Opciones configurables,11
+line2=Configuraci&#243;n del sistema,11
+swat_path=Trayectoria completa a swat,3,Ninguna
+pdbedit=Ruta completa a pdbedit,3,Ninguno
+dont_convert=Lista de usuarios de Unix que no se a&#241;aden a lista de claves de acceso de samba,0

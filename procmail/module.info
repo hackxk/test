@@ -1,0 +1,7 @@
+os_support=!windows
+version=1.880
+longdesc=Edit recipes in the global /etc/procmailrc file, which apply to all incoming email.
+desc=Procmail Mail Filter
+name=Procmail
+category=servers
+depends=1.880

@@ -1,0 +1,8 @@
+version=1.880
+longdesc=Backup and restore filesystems using the dump and restore family of commands.
+name=Dump
+os_support=redhat-linux mandrake-linux slackware-linux debian-linux suse-linux united-linux open-linux turbo-linux corel-linux cobalt-linux msc-linux generic-linux solaris freebsd macos gentoo-linux irix trustix-linux coherent-linux pardus-linux
+readonly=1
+desc=Filesystem Backup
+category=system
+depends=mount cron proc mailboxes 1.880

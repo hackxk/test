@@ -1,0 +1,4 @@
+cron_mode=Mostra els temps d'actualització com,1,0-Interfície simple,1-Selector de temps cron
+usermin_dir=Directori de configuració d'Usermin,0
+port=Port Usermin per al canvi d'usuari,3,Determina'l automàticament
+host=Nom de host Usermin per al canvi d'usuari,3,El mateix que Webmin

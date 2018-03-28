@@ -1,0 +1,11 @@
+api_os_support=macos
+version=1.880
+longdesc=Mount filesystems and swap files usually configured in /etc/fstab or /etc/vfstab.
+name=Disk Manager
+readonly=1
+os_support=*-linux solaris freebsd hpux openbsd netbsd 
+desc=Disk and Network Filesystems
+category=system
+novserver=1
+risk=low medium high
+depends=proc 1.880

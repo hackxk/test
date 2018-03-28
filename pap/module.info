@@ -1,0 +1,7 @@
+os_support=redhat-linux mandrake-linux suse-linux united-linux slackware-linux debian-linux open-linux turbo-linux corel-linux msc-linux generic-linux gentoo-linux cobalt-linux solaris trustix-linux coherent-linux openmamba-linux pardus-linux
+version=1.880
+longdesc=Set up a dialin server using mgetty and PPP.
+desc=PPP Dialin Server
+name=PPP
+category=net
+depends=inittab 1.880

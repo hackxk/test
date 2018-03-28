@@ -1,0 +1,5 @@
+version=1.880
+longdesc=Configure the Syslog-NG server on your system and view its log files.
+desc=System Logs NG
+category=system
+depends=proc 1.880

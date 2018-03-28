@@ -1,0 +1,7 @@
+start_cmd=Polecenie uruchamiające xinetd,0
+pid_file=Ścieżka do pliku z numerem PID Xinetd,3,Brak (wyszukaj w procesach)
+add_dir=Dodaj nowe usługi do,15,add_dir
+xinetd_conf=Plik konfiguracyjny Xinetd,0
+lookup_servs=Wyszukiwać numery portów na stronie głównej?,1,1-Tak,0-Nie
+protocols_file=Plik protokołów sieciowych,0
+line2=Konfiguracja systemu,11

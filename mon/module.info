@@ -1,0 +1,8 @@
+version=1.880
+longdesc=Setup MON, a powerful service monitor and alerting system.
+name=mon
+os_support=*-linux
+readonly=1
+desc=MON Service Monitor
+category=system
+depends=init 1.880

@@ -1,0 +1,9 @@
+version=1.880
+longdesc=Create, edit and delete Cron jobs.
+name=Cron Manager
+os_support=solaris *-linux hpux freebsd osf1 irix unixware openserver macos openbsd aix netbsd windows 
+readonly=1
+desc=Scheduled Cron Jobs
+category=system
+depends=proc 1.880
+risk=low medium high

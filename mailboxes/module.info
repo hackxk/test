@@ -1,0 +1,7 @@
+os_support=!windows
+readonly=1
+version=1.880
+longdesc=Read email in users' mailboxes.
+desc=Read User Mail
+category=servers
+depends=1.880

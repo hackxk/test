@@ -1,0 +1,7 @@
+os_support=*-linux
+version=1.880
+longdesc=Configure the WV-Dial package to connect to the Internet with a modem PPP connection
+desc=PPP Dialup Client
+name=PPP
+category=net
+depends=proc init cron 1.880

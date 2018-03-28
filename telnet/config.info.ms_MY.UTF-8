@@ -1,0 +1,9 @@
+sizemode=Saiz applet,1,0-80x24 aksara (dalam font lalai),1-Maksima,2-Saiz khusus
+mode=Jenis sambungan,1,0-Telnet,1-SSH (disarankan)
+detach=Mod tetingkap asing,1,1-Ya,0-Tidak
+port=Port untuk disambungkan kepada,3,Lalai
+size=Kelaziman lebar x tinggi,0
+host=Nama hos untuk disambungkan kepada,3,Automatik
+fontsize=Saiz font dalam titik,3,Lalai
+no_test=Uji pelayan telnet atau SSH?,1,0-Ya,1-Tidak
+proxy=Gunakan proksi untuk menyambung ke hos yang lain?,1,0-Ya,1-Tidak

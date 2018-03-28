@@ -1,0 +1,9 @@
+version=1.880
+cpan=1
+longdesc=Configure Webmin itself, such as allowed hosts, SSL, installed modules and themes.
+name=Webmin
+desc=Webmin Configuration
+syslog=1
+category=webmin
+risk=low medium high
+depends=cron 1.880

@@ -1,0 +1,8 @@
+version=1.880
+longdesc=Generate reports from webserver, proxy server and FTP log files
+name=Webalizer
+readonly=1
+os_support=!windows
+desc=Webalizer Logfile Analysis
+category=servers
+depends=cron 1.880

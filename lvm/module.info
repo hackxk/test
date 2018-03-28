@@ -1,0 +1,7 @@
+os_support=*-linux
+version=1.880
+longdesc=Configure volume groups, physical volumes and logical volumes for Linux LVM.
+desc=Logical Volume Management
+name=LVM
+category=hardware
+depends=mount fdisk 1.880

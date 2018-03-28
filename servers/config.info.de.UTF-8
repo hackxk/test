@@ -1,0 +1,17 @@
+groups_dir=MSC-Cluster Gruppen-Verzeichnis,0
+show_status=Zeige Status der Server an,1,1-Ja,0-Nein
+resolve=L&#246;se Adressen gefundener Server auf,1,1-Ja,0-Nein
+deflink=Standard-Login-Modus,4,0-Normaler Link zum Server,1-Login via Webmin,2-Anmeldung&#44; wenn das Symbol geklickt wird,3-Login mit demselben Benutzernamen und Kennwort
+max_servers=Suchformular anzeigen&#44; wenn Anzahl an Server &#252;berschritten wurde,0
+listen=Scannen nach Servern auf UDP-Port,3,Gleiche wie dieses System
+skipifaces=Netzwerkschnittstelle nicht erkennen,0
+sort_mode=Sortiere Server nach,4,4-IP&#045Adresse,1-Hostname,2-Beschreibung,3-Betriebssystem,5-Gruppe,0-Erstellter Reihenfolge
+auto_type=Standard-System-Typ,14,show_deftype
+capath=Datei oder Verzeichnis f&#252;r entfernte SSL&#45;CA&#45;Zertifikate,0
+line1=Konfigurierbare Optionen,11
+line2=Systemkonfiguration,11
+display_mode=Zeige Server als,1,1-Tabelle,0-Icons
+show_ip=Adresse und den Port auf der Hauptseite immer anzeigen?,1,1-Ja,0-Nein
+skipips=IPs oder Hostnamen des Systems nicht erkennen,9,50,5,\t
+deffast=Standard-RPC-Modus,1,1-Schnell,2-Automatisch,0-Langsam
+scan_time=Zeit&#044 die beim Scan auf Antwort gewartet wird (Sekunden),0,5

@@ -1,0 +1,6 @@
+readonly=1
+version=1.880
+longdesc=Upload multiple files to the server, and download multiple URLs either immediately or in the background at a scheduled time.
+desc=Upload and Download
+name=UpDown
+depends=1.880

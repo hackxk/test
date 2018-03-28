@@ -1,0 +1,7 @@
+os_support=*-linux
+version=1.880
+cpan=1
+longdesc=Configure your system as an LDAP client for users and groups.
+desc=LDAP Client
+category=system
+depends=1.880

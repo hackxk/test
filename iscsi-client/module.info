@@ -1,0 +1,6 @@
+os_support=*-linux
+version=1.880
+longdesc=Access disk devices across the network using the iSCSI protocol.
+desc=iSCSI Client
+category=hardware
+depends=fdisk mount lvm 1.880

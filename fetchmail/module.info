@@ -1,0 +1,7 @@
+os_support=!windows
+version=1.880
+longdesc=Configure the popular fetchmail program for automatically retrieving mail from other servers.
+desc=Fetchmail Mail Retrieval
+name=Fetchmail
+category=servers
+depends=1.880

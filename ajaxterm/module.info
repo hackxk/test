@@ -1,0 +1,5 @@
+version=1.880
+longdesc=Access the shell on your system without the need for a separate SSH client, using Ajaxterm
+desc=Text Login
+name=ajaxterm
+depends=1.880

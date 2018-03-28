@@ -1,0 +1,7 @@
+os_support=*-linux
+version=1.880
+longdesc=Configure a Linux firewall using iptables. Allows the editing of all tables, chains, rules and options.
+desc=Linux Firewall
+name=Firewall
+category=net
+depends=1.880

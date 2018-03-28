@@ -1,0 +1,7 @@
+macros=Katalog for makro filer,0
+actions=Filer med standard handlinger,9,40,5,\t
+shorewall6=Sti til shorewall6 kommando,0
+before_apply_cmd=Kommando som skal kj&#248;res f&#248;r konfigurasjon tas i bruk,3,Ingen
+config_dir=Shorewall6 konfigurasjonskatalog,0
+display_zone_descriptions=Vis sonebeskrivelser i fil med regler?,1,0-Nei,1-Ja
+after_apply_cmd=Kommando som skal kj&#248;res etter at konfigurasjon er tatt i bruk,3,Ingen

@@ -1,0 +1,8 @@
+version=1.880
+longdesc=Set the system and hardware time either manually or from a time server.
+name=Time
+os_support=*-linux solaris hpux macos freebsd netbsd openserver irix
+desc=System Time
+category=hardware
+risk=low medium high
+depends=cron 1.880

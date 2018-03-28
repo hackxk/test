@@ -1,0 +1,8 @@
+version=1.880
+longdesc=Configure the service location protocol server.
+name=OpenSLP
+library=slp-lib.pl
+os_support=!windows
+desc=OpenSLP Server
+category=servers
+depends=1.880

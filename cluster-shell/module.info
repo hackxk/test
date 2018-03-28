@@ -1,0 +1,5 @@
+version=1.880
+longdesc=Run commands on multiple servers at once.
+desc=Cluster Shell Commands
+category=cluster
+depends=1.880

@@ -1,0 +1,9 @@
+version=1.880
+longdesc=Create and edit local and remote printers. Supports Windows print servers and Ghostscript print drivers.
+name=lpadmin
+os_support=solaris coherent-linux redhat-linux mandrake-linux slackware-linux suse-linux united-linux debian-linux freebsd hpux unixware macos open-linux turbo-linux openbsd corel-linux irix netbsd msc-linux generic-linux gentoo-linux trustix-linux openmamba-linux aix pardus-linux
+readonly=1
+desc=Printer Administration
+category=hardware
+risk=low medium high
+depends=1.880

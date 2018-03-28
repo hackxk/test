@@ -1,0 +1,7 @@
+os_support=*-linux
+version=1.880
+longdesc=Configure and establish connections to a VPN server using the PPTP protocol.
+desc=PPTP VPN Client
+name=PPTP
+category=net
+depends=net proc syslog 1.880

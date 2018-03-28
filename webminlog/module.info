@@ -1,0 +1,8 @@
+version=1.880
+longdesc=View detailed logs of actions by Webmin users.
+name=WebminLog
+readonly=1
+desc=Webmin Actions Log
+category=webmin
+risk=low medium high
+depends=1.880

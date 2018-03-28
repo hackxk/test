@@ -1,0 +1,6 @@
+usermin=1
+webmin=1
+version=1.880
+longdesc=A theme that matches the Virtualmin look and feel
+desc=Gray Framed Theme
+depends=1.880

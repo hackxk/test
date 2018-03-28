@@ -1,0 +1,8 @@
+version=1.880
+longdesc=Set up the automatic rotation of Apache, Squid, Syslog and other log files.
+name=Logrotate
+readonly=1
+os_support=!windows
+desc=Log File Rotation
+category=system
+depends=cron 1.880

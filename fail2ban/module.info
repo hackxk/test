@@ -1,0 +1,6 @@
+version=1.880
+longdesc=Fail2ban protects your system from brute force attacks by detecting them and blocking their source IPs.
+desc=Fail2Ban Intrusion Detector
+syslog=1
+category=net
+depends=init 1.880

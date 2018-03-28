@@ -1,0 +1,16 @@
+ftpusers=Camí del fitxer ftpusers,0
+defines_mods=Directoris que contenen mòduls per a les variables HAVE_,9,40,3,\t
+test_manual=Prova el fitxer de configuració després de fer-hi canvis manuals,1,1-Sí,0-No
+stop_cmd=Ordre per aturar ProFTPD,3,Mata el procés
+pid_file=Camí del fitxer de PID de ProFTPD,3,Cap
+add_file=Fitxer per afegir-hi els nous hosts virtuals,3,El darrer fitxer de la configuració
+start_cmd=Ordre per iniciar ProFTPD,3,Automàtic
+test_always=Prova el fitxer de configuració després d'altres canvis,1,1-Sí,0-No
+defines_file=Fitxer d'entorn que defineix les variables de ProFTPD,3,Cap
+line1=Opcions configurables,11
+line2=Configuració del sistema,11
+line3=Variables de ProFTPD,11
+proftpd_path=Camí del fitxer executable de ProFTPD,0
+test_config=Prova el fitxer de configuració abans d'aplicar els canvis,1,1-Sí,0-No
+proftpd_conf=Camí del fitxer de configuració de ProFTPD,0
+defines_name=Nom de la variable d'entorn en el fitxer anterior,0

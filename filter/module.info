@@ -1,0 +1,11 @@
+webmin_hidden=1
+webmin=1
+version=1.880
+longdesc=Create rules to filter and forward incoming email.
+usermin=1
+webmin_noui=1
+desc=Filter and Forward Mail
+category=mail
+depends=1.880
+usermin_depends=mailbox procmail forward spam
+webmin_depends=mailboxes procmail

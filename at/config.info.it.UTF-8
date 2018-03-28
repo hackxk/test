@@ -1,0 +1,5 @@
+deny_file=File degli utenti non autorizzati:,3,Nessuno
+at_style=Tipo di sistema,1,linux-Linux,solaris-Solaris,freebsd-FreeBSD,irix-Irix,macos-MacOS X,openserver-OpenServer
+line2=Configurazione di sistema,11
+allow_file=File degli utenti autorizzati:,3,Nessuno
+at_dir=Directory dei job,0

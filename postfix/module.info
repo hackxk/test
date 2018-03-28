@@ -1,0 +1,9 @@
+version=1.880
+longdesc=Configure the Postfix mail server.
+name=Postfix
+readonly=1
+os_support=!windows
+desc=Postfix Mail Server
+category=servers
+risk=low medium high
+depends=1.880

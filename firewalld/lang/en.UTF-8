@@ -1,0 +1,116 @@
+index_title=FirewallD
+index_atboot=Enable firewall at boot time?
+index_bootup=Activate at boot
+index_bootupdesc=Change this option to control whether your firewall is activated at boot time or not.
+index_apply=Apply Configuration
+index_applydesc=Click this button to make the firewall configuration listed above active. Any firewall rules currently in effect will be flushed and replaced 
+index_restart=Apply Configuration
+index_restartdesc=Activate all the allowed services and ports listed above, in all zones. Any active rules that were not permanently created will be replaced.
+index_start=Start FirewallD
+index_startdesc=Start the FirewallD server and apply the rules listed above.
+index_stop=Stop FirewallD
+index_stopdesc=Shut down the FirewallD server and remove all the rules listed above.
+index_cerr=The FirewallD module cannot be used : $1
+index_zone=Show rules in zone:
+index_zoneok=Change
+index_zoneadd=Add Zone..
+index_zonedel=Delete Zone
+index_zonedef=Make Default
+index_type=Rule type
+index_port=Port or service
+index_proto=Protocol
+index_tservice=Service
+index_tport=Port
+index_tforward=Forward
+index_padd=Add allowed port.
+index_sadd=Add allowed service.
+index_fadd=Add port forward.
+index_delete=Delete Selected Rules
+index_return=list of zones
+index_ezones=No FirewallD zones found!
+index_none=This zone does not have any allowed ports or services yet.
+index_ifaces=Apply rules to interfaces:
+
+port_edit=Edit Port
+port_create=Add Port
+port_header=Allowed port options
+port_zone=Allowed in zone
+port_port=Port to allow
+port_mode0=Single port
+port_mode1=Port range
+port_mode2=Same as original port
+port_proto=Network protocol
+port_ezone=Zone does not exist!
+port_err=Failed to save port
+port_eport=Missing or invalid port number or name
+port_eportlow=Low port must be a number
+port_eporthigh=High port must be a number
+port_eportrange=Low port must be below the high port
+
+serv_edit=Edit Service
+serv_create=Add Service
+serv_header=Allowed service options
+serv_name=Service to allow
+serv_err=Failed to save service
+
+forward_edit=Edit Forward
+forward_create=Create Forward
+forward_header=Port forwarding options
+forward_zone=Forward for zone
+forward_err=Failed to save forward
+forward_port=Source port
+forward_dstport=Desintation port
+forward_dstaddr=Destination address
+forward_dstlocal=This system
+forward_edstaddr=Invalid IPv4 destination address
+forward_eneither=Either a destination address or port or both must be entered
+
+check_ecmd=The FirewallD control command $1 was not found on your system
+
+delete_err=Failed to delete rules
+delete_enone=None selected!
+delete_edel=Removal of $1 failed : $2
+
+zone_title=Create Zone
+zone_header=New zone options
+zone_name=Zone name
+zone_mode=Allowed ports and services
+zone_mode0=None (all traffic will be blocked)
+zone_mode1=Copy from zone
+zone_mode2=SSH, IDENT and Webmin only
+zone_mode3=SSH, IDENT, Webmin and high ports
+zone_mode4=Ports used for virtual hosting
+zone_err=Failed to create zone
+zone_ename=Missing or invalid zone name
+zone_eclash=A zone with the same name already exists
+
+delzone_title=Delete Zone
+delzone_err=Failed to delete zone
+delzone_edefault=The default zone cannot be removed
+delzone_rusure=Are you sure you want to delete the zone $1, which contains $2 ports and $3 services?
+
+defzone_err=Failed to make zone the default
+
+restart_err=Failed to apply configuration
+stop_err=Failed to stop FirewallD
+start_err=Failed to start FirewallD
+
+log_stop=Stopped FirewallD
+log_start=Started FirewallD
+log_restart=Applied FirewallD configuration
+log_bootup=Enabled FirewallD at boot
+log_bootdown=Disabled FirewallD at boot
+log_create_port=Added allowed port $1
+log_delete_port=Removed allowed port $1
+log_update_port=Updated allowed port $1
+log_create_serv=Added allowed service $1
+log_delete_serv=Removed allowed service $1
+log_update_serv=Updated allowed service $1
+log_create_forward=Added forward $1
+log_delete_forward=Removed forward $1
+log_update_forward=Updated forward $1
+log_delete_rules=Removed $1 allowed ports
+log_ifaces_zone=Updated interfaces for zone $1
+log_create_zone=Created zone $1
+log_delete_zone=Deleted zone $1
+log_default_zone=Made zone $1 the default

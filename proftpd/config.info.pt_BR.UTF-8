@@ -1,0 +1,12 @@
+ftpusers=Caminho para o arquivo ftpusers,0
+test_manual=Testar configura&#231;&#245;es do arquivo ap&#243;s de aplicar altera&#231;&#245;es?,1,1-Sim,0-N&#227;o
+stop_cmd=Comando para parar o ProFTPD,3,S&#243; matar o processo
+pid_file=Caminho para o arquivo PID do ProFTPD,0
+add_file=Arquivo para adicionar novos hosts virtuais,3,&#218;ltimo arquivo na configura&#231;&#227;o
+start_cmd=Comando para iniciar o ProFTPD,3,Autom&#225;tico
+test_always=Testar configura&#231;&#245;es do arquivo ap&#243;s outras altera&#231;&#245;es?,1,1-Sim,0-N&#227;o
+line1=Op&#231;&#245;es configur&#225;veis,11
+line2=Configura&#231;&#227;o do sistema,11
+proftpd_path=Caminho para o execut&#225;vel do ProFTPD,0
+test_config=Testar configura&#231;&#245;es do arquivo antes de aplicar altera&#231;&#245;es?,1,1-Sim,0-N&#227;o
+proftpd_conf=Caminho para o arquivo de configura&#231;&#227;o do ProFTPD,0

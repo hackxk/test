@@ -1,0 +1,6 @@
+longdesc=Configure the TCP wrappers networking access control files
+version=1.880
+desc=TCP Wrappers
+name=tcpwrappers
+category=net
+depends=1.880

@@ -1,0 +1,15 @@
+groups_dir=MSC klynge gruppe katalog,0
+show_status=Vis status for tjenere,1,1-Ja,0-Nei
+resolve=Sl&#229; opp funnet tjener-adresser,1,1-Ja,0-Nei
+deflink=Standard innloggingsmodus,1,0-Normal lenke til tjener,1-Logg inn via Webmin,2-Logg inn n&#229;r ikon klikkes,3-Logg inn med samme brukernavn og passord
+listen=Let etter tjenere p&#229; UDP port,3,Samme som dette systemet
+skipifaces=Nettverksgrensesnitt som ikke skal oppdages,0
+sort_mode=Sorter tjenere etter,1,4-IP Adresse,1-Vertsnavn,2-Beskrivelse,3-OS,5-Gruppe,0-Opprettet rekkef&#248;lge
+auto_type=Standard systemtype,14,show_deftype
+line1=Konfigurerbare innstillinger,11
+line2=System konfigurasjon,11
+display_mode=Vis tjenere som,1,1-Liste,0-Icon
+show_ip=Vis alltid adresse og port p&#229; hovedsiden,1,1-Ja,0-Nei
+skipips=IPer eller vertsnavn p&#229; system som ikke skal oppdages,9,50,5,\t
+deffast=Standard RPC modus,1,1-Hurtig,2-Automatisk,0-Langsom
+scan_time=Tid &#229; vente p&#229; s&#248;ke-svar,0

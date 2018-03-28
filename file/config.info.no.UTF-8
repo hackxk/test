@@ -1,0 +1,11 @@
+defzip=Standard arkiveringsmodus for opplastinger,1,2-Pakk ut og slett,1-Pakk ut,0-Ikke gj&#248;r noe
+width=Bredde p&#229; skalerte bilder,3,Standard (300 piksler)
+fixed=Skriftst&#248;rrelse for tekst,3,Standard (12 punkt)
+iconsize=St&#248;rrelse p&#229; knappene i verkt&#248;ylinjen,1,1-Liten,0-Stor med merkelapp
+htmlexts=Fil-etternavn som skal redigeres som HTML,3,Standard (.htm og .html)
+force_text=Editor for HTML filer,1,1-Tekst-editor,0-HTML editor
+extract=Pakk ut .class filer fra JAR?,1,1-Ja,0-Nei
+nocharset=Fors&#248;k &#229; bruke riktig tegnsett?,1,0-Ja,1-Nei
+small_fixed=Skriftst&#248;rrelse for knapper,3,Standard (10 punkt)
+hide_dot_files=Vis filer som starter med punktum?,1,0-Ja,1-Nei
+defuser=Standard bruker for opplastinger,10,root-root,*-Samme som katalog,Annen bruker

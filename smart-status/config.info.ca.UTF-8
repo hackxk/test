@@ -1,0 +1,5 @@
+ata=Força el mode de consulta ATA,1,1-Sí,0-No
+mode=Mode de presentació,1,1-Una unitat,0-Totes les unitats
+extra=Paràmetres extra de la línia d'ordres de smartctl,3,Cap
+smartctl=Camí complet de l'ordre smartctl,0
+attribs=Mostra tots els atributs,1,1-Sí,0-No

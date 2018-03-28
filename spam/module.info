@@ -1,0 +1,7 @@
+os_support=!windows
+version=1.880
+longdesc=Set up and configure SpamAssassin to filter email received by your system.
+desc=SpamAssassin Mail Filter
+name=SpamAssassin
+category=servers
+depends=1.880

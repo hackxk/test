@@ -1,0 +1,9 @@
+version=1.880
+longdesc=Configure global options for the Usermin user account management server.
+name=Usermin
+readonly=1
+os_support=!windows
+desc=Usermin Configuration
+syslog=1
+category=webmin
+depends=webmin acl 1.880

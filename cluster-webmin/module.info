@@ -1,0 +1,6 @@
+version=1.880
+longdesc=Install and manage modules, themes, users, groups and access control settings across multiple Webmin servers.
+desc=Cluster Webmin Servers
+name=Cluster Webmin
+category=cluster
+depends=webmin servers 1.880

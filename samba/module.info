@@ -1,0 +1,8 @@
+version=1.880
+longdesc=Create and edit samba file and print shares.
+name=Samba Manager
+os_support=solaris *-linux aix hpux freebsd osf1 irix openserver unixware openbsd macos netbsd 
+desc=Samba Windows File Sharing
+category=servers
+risk=low medium high
+depends=1.880

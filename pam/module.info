@@ -1,0 +1,10 @@
+version=1.880
+cpan=1
+longdesc=Configure the PAM authentication steps used by services such as telnet, POP and FTP.
+name=PAM
+os_support=*-linux slackware-linux{-d "/etc/pam.d"} macos 
+readonly=1
+desc=PAM Authentication
+category=system
+depends=1.880
+risk=high

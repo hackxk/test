@@ -1,0 +1,10 @@
+version=1.880
+longdesc=Create and edit domains, DNS records, BIND options and views.
+name=BIND
+os_support=*-linux solaris hpux freebsd osf1 irix unixware openserver macos openbsd aix netbsd windows 
+readonly=1
+desc=BIND DNS Server
+syslog=1
+category=servers
+risk=low medium high
+depends=servers 1.880

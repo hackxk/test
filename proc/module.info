@@ -1,0 +1,11 @@
+version=1.880
+cpan=1
+longdesc=List, kill and renice running processes on your system.
+name=Process Manager
+os_support=solaris *-linux hpux freebsd osf1 irix unixware openserver macos aix netbsd openbsd windows
+readonly=1
+desc=Running Processes
+syslog=1
+category=system
+risk=medium high
+depends=mount 1.880

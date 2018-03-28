@@ -1,0 +1,5 @@
+share_all_command=Ordre per iniciar la compartició,0
+fstypes_file=Fitxer de tipus de sistemes de fitxers compartits,3,Cap
+unshare_all_command=Ordre per aturar la compartició,0
+dfstab_file=Ubicació del fitxer d'exportacions NFS,0
+line2=Configuració del sistema,11

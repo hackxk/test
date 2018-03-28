@@ -1,0 +1,6 @@
+os_support=*-linux
+version=1.880
+longdesc=Configure a Linux firewall using FirewallD, by editing allowed services and ports.
+desc=FirewallD
+category=net
+depends=net init 1.880

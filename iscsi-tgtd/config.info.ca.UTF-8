@@ -1,0 +1,9 @@
+start_cmd=Ordre per iniciar iSCSI TGTd,3,Inicia el script d'engegada
+tgtadm=Camí complet de l'ordre tgtadm,0
+tgtd=Camí complet de l'ordre tgtd,0
+config_file=FItxer de configuració de iSCSI TGTD,0
+stop_cmd=Ordre per aturar iSCSI TGTd,3,Atura el script d'engegada
+restart_cmd=Ordre per reiniciar iSCSI TGTd,3,Reinicia el script d'engegada
+tgtadmin=Camí complet de l'ordre tgt-admin,0
+init_name=Nom del script d'engegada,0
+add_file=Afegeix objectius nous a,3,Fitxer primari de configuració

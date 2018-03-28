@@ -1,0 +1,6 @@
+readonly=1
+version=1.880
+longdesc=Login to your system with SSH or telnet.
+desc=SSH Login
+depends=1.880
+risk=high

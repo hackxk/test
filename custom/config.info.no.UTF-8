@@ -1,0 +1,8 @@
+width=Bredde p&#229; fileditor-vindu,3,Standard (80 tegn)
+params_file=Behandle standardverdier som starter med / som filer som skal leses,1,1-Ja,0-Nei
+height=H&#248;yde p&#229; fileditor-vindu,3,Standard (20 tegn)
+params_cmd=Behandle standardverdier som slutter med | som kommando som skal kj&#248;res?,1,1-Ja,0-Nei
+display_mode=Hovedsiden viser,1,0-Alle kommandoer og parametere,1-Lenker til kommandoer
+sort=Sorter kommandoer etter,1,desc-Kommando&#45;navn,html-Beskrivelse,-Kommandosortering
+columns=Ant. kolonner kommandoer skal vises i,1,2-2,1-1
+wrap=Orddelingsmodus for fileditor,1,-Standard (Myk),hard-Hard,off-Av

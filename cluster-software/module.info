@@ -1,0 +1,7 @@
+os_support=cobalt-linux mandrake-linux redhat-linux open-linux msc-linux suse-linux united-linux turbo-linux debian-linux solaris openserver gentoo-linux trustix-linux coherent-linux slackware-linux windows pardus-linux
+version=1.880
+longdesc=Install RPMs, debian and solaris packages across multiple servers from one source.
+desc=Cluster Software Packages
+name=Cluster Software
+category=cluster
+depends=software servers 1.880

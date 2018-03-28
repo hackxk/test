@@ -1,0 +1,7 @@
+os_support=*-linux freebsd
+version=1.880
+longdesc=Set up your system as a PPTP server so that Linux or Windows VPN clients can connect.
+desc=PPTP VPN Server
+name=PPTPd
+category=net
+depends=proc net pptp-client 1.880

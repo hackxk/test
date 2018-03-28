@@ -1,0 +1,9 @@
+sha1=Ofereix l'opció de xifratge SHA1,1,1-Sí,0-No
+htaccess=Nom del fitxer d'opcions d'Apache,0
+extra_directives=Directives extra per incloure a .htaccess,9,0,0,\t
+htgroups=Nom del fitxer de grups,0
+sort=Ordena els usuaris per,1,1-Nom d'usuari,0-Ordre del fitxer
+htpasswd=Nom del fitxer d'usuaris,0
+digest=Ofereix l'opció de resum de xifratges,1,1-Sí,0-No
+perms=Permisos dels fitxers creats,3,Per defecte (644)
+md5=Ofereix l'opció de xifratge MD5,1,1-Sí,0-No

@@ -1,0 +1,10 @@
+version=1.880
+longdesc=Configure almost all Apache directives and features.
+name=Apache
+os_support=solaris *-linux aix hpux freebsd osf1 irix unixware openserver macos openbsd netbsd windows 
+readonly=1
+desc=Apache Webserver
+syslog=1
+category=servers
+depends=1.880
+risk=low medium high

@@ -1,0 +1,6 @@
+os_support=solaris {&has_command("ipf")}
+version=1.880
+longdesc=Configure a firewall using the IPFilter package, by creating and editing rules.
+desc=IPFilter Firewall
+category=net
+depends=net 1.880

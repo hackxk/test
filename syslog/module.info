@@ -1,0 +1,9 @@
+version=1.880
+longdesc=Configure the syslog server on your system and view its log files.
+name=Syslog
+os_support=solaris *-linux freebsd openbsd macos hpux irix unixware aix netbsd openserver
+readonly=1
+desc=System Logs
+category=system
+risk=low medium high
+depends=proc 1.880

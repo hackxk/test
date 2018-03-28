@@ -1,0 +1,8 @@
+lease=Nombre de segons de retard acceptables entre l'hora del sistema i l'hora del maquinari,0
+ntp_only=Utilitza NTP només per a la sincronització horària,1,1-Sí,0-No
+timeserver=Servidor horari per defecte,3,Cap
+line1=Opcions configurables,11
+line2=Configuració del sistema,11
+seconds=Format de l'hora del sistema,1,1-MMDDHHMMAAAA.SS,0-MMDDHHMMAA,2-AAAAMMDDHHMM.SS
+hwclock_flags=Arguments de la línia d'ordres de <tt>hwclock</tt>,10,-Cap,sysconfig-De /etc/sysconfig/clock
+zone_style=Mètode de configuració de zones horàries,linux-Linux,freebsd-FreeBSD,solaris-Solaris,-&lt;No suportat en aquest SO&gt;

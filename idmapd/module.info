@@ -1,0 +1,7 @@
+os_support=*-linux
+version=1.880
+longdesc=Manage the NFS ID mapping daemon.
+desc=idmapd daemon
+name=Idmapd Daemon
+category=net
+depends=1.880

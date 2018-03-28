@@ -1,0 +1,14 @@
+ipf_conf=Fitxer de configuració IPfilter a editar,0
+smf=Nom del servei SMF IPfilter,3,Cap
+view_comment=Mostra comentaris,1,1-Sí,0-No
+ipfstat=Camí complet de l'ordre ipfstat,0
+ipf=Camí complet de l'ordre ipf,0
+line1=Configuració del sistema,11
+cluster_mode=Actualitza els servidors del cluster,1,0-Quan es faci un canvi,1-En aplicar la configuració
+init=Nom del script IPfilter d'engegada,3,Automàtic
+cluster_nat=Envia també la configuració NAT als clusters,1,1-Sí,0-No
+view_condition=Mostra les condicions,1,1-Sí,0-No
+apply_cmd=Ordre per aplicar la configuració,3,Executa ipf
+ipnat=Camí complet de l'ordre ipnat,0
+ipnat_conf=Fitxer de configuració NAT IPfilter a editar,0
+line0=Opcions configurables,11

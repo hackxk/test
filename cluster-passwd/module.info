@@ -1,0 +1,6 @@
+os_support=!windows
+version=1.880
+longdesc=Change passwords on multiple systems in a Webmin cluster at once.
+desc=Cluster Change Passwords
+category=cluster
+depends=cluster-useradmin passwd useradmin 1.880

@@ -1,0 +1,9 @@
+version=1.880
+longdesc=Change the password of any user on the system.
+name=Passwd
+passwd=Change the passwords of Unix users.
+readonly=1
+os_support=!windows
+desc=Change Passwords
+category=system
+depends=useradmin 1.880

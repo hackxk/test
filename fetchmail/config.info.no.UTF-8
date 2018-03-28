@@ -1,0 +1,11 @@
+start_cmd=Kommando for &#229; starte fetchmail daemon,3,Bare kj&#248;r fetchmail
+daemon_user=Bruker som fetchmail daemon skal kj&#248;res som,0
+mda_command=Kommando for e-post levering,3,Bruk SMTP
+config_file=Fetchmail konfig.fil som skal redigeres,3,Alle brukeres .fetchmailrc filer
+line1=Konfigurerbare innstillinger,11
+line2=Systemkonfigurasjon,11
+stop_cmd=Kommando for &#229; stoppe fetchmail daemon,3,Bare kj&#248;r fetchmail -q
+pid_file=Stil til fetchmail daemon PID fil,0
+fetchmail_path=Stil til fetchmail program,0
+max_users=Maks. antall brukere som vises,3,Ubegrenset
+view_mode=Vis brukerliste som,1,1-Bare brukernavn,0-Brukernavn og fetchmail konfigurasjon

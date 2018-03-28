@@ -1,0 +1,6 @@
+os_support=freebsd
+version=1.880
+longdesc=Create and edit paritions on local SCSI and IDE disks on FreeBSD.
+desc=Partitions on Local Disks
+category=hardware
+depends=mount fdisk 1.880

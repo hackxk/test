@@ -1,0 +1,7 @@
+os_support=!windows
+version=1.880
+longdesc=Install and manage modules and themes across multiple Usermin servers.
+desc=Cluster Usermin Servers
+name=Cluster Usermin
+category=cluster
+depends=usermin servers 1.880

@@ -1,0 +1,4 @@
+script=Inloggningsskript,3,Inget
+mode=Uppkopplingstyp,1,0-Telnet,1-Secure Shell (rekommenderas)
+port=Port att koppla upp mot,3,Standard
+host=Dator att koppla upp mot,3,Automatiskt

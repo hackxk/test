@@ -1,0 +1,8 @@
+lease=N&#250;mero de segundos de retraso aceptables entre la hora del sistema y la del hardware,0
+ntp_only=&#191;Usar s&#243;lo NTP para sincronizaci&#243;n horaria?,1,1-S&#237;,0-No
+timeserver=Servidor horario por defecto,3,Ninguno
+line1=Opciones Configurables,11
+line2=Configuracion del sistema,11
+seconds=Formato de ajuste de hora de sistema,1,1-MMDDHHMMYYYY.SS,0-MMDDHHMMYY,2-YYYYMMDDHHMM.SS
+hwclock_flags=Flags de linea de comandos para hwclock,10,-Ninguno,sysconfig-Desde /etc/sysconfig/clock
+zone_style=M&#233;todo de configuraci&#243;n de zona horaria,4,linux-Linux,freebsd-FreeBSD,solaris-Solaris,-&lt;No soportado en este OS&gt;

@@ -1,0 +1,10 @@
+start_cmd=Polecenie uruchamiające sshd,3,Tylko uruchom serwer
+client_config=Pełna ścieżka do pliku konfiguracyjnego klienta ssh,0
+sshd_version=Wersja serwera SSH,3,Wykryj automatycznie
+keygen_path=Pełna ścieżka do programu ssh-keygen,0
+line2=Konfiguracja systemu,11
+stop_cmd=Polecenie do zatrzymania sshd,3,Tylko zabij proces
+pid_file=Pełna ścieżka do pliku z&nbsp;numerem PID sshd,0
+restart_cmd=Polecenie do zastosowania konfiguracji SSHD,3,Tylko wyślij sygnał HUP
+sshd_path=Pełna ścieżka do programu <tt>sshd</tt>,0
+sshd_config=Pełna ścieżka do pliku konfiguracyjnego sshd,0

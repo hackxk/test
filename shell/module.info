@@ -1,0 +1,7 @@
+version=1.880
+longdesc=Execute shell commands and view their output.
+desc=Command Shell
+desc_bg=Командна обвивка
+name=Shell
+depends=1.880
+risk=high

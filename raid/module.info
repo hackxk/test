@@ -1,0 +1,8 @@
+version=1.880
+longdesc=Create RAID 0, 1, 4, 5, 6, 10 and linear devices on a Linux system.
+name=RAID
+os_support=*-linux
+desc=Linux RAID
+category=hardware
+risk=high
+depends=fdisk mount 1.880

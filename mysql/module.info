@@ -1,0 +1,10 @@
+version=1.880
+cpan=1
+longdesc=Setup databases, tables and permissions in your MySQL database server.
+name=MySQL
+readonly=1
+desc=MySQL Database Server
+syslog=1
+category=servers
+depends=1.880
+risk=low medium high

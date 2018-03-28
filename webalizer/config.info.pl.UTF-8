@@ -1,0 +1,8 @@
+skip_old=Uwzględnić stare (rotated) pliki dziennika (logów)?,1,0-Tak,1-Nie
+naked=Dodać nagłówek i stopkę webmina do raportu Webalizera?,1,0-Tak,1-Nie
+line1=Opcje konfigurowalne,11
+alt_conf=Przykładowy plik konfiguracyjny webalizera,3,Brak
+line2=Konfiguracja systemu,11
+webalizer_conf=Ścieżka do pliku konfiguracyjnego webalizera,0
+auto=Automatycznie dołącz pliki dziennika z,2,apache-Apache,squid-Squid,proftpd-ProFTPd,wuftpd-WUFTPd
+webalizer=Ścieżka do komendy webalizer,0
